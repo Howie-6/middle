@@ -1,0 +1,69 @@
+body {
+    background: #728EB2;
+    color: #FFF;
+    margin: 20px;
+}
+
+/*( 'box-sizing' will not work with this code )*/
+textarea {
+    /* box-sizing: padding-box; */
+    overflow: hidden;
+    /* demo only: */
+    padding: 10px;
+    resize: none;
+    /*min-height: 50px;*/
+    width: 100%;
+    font-size: 14px;
+    margin: 10px auto;
+    display: block;
+    border-radius: 10px;
+    border: 6px solid #556677;
+}
+
+lable {
+    font-weight: bold;
+}
+
+
+.hidden {
+    overflow: hidden;
+    height: 0;
+    width: 0;
+}
+
+.red {
+    color: brown;
+}
+
+.base-info-item {
+    /*display: flex;*/
+    /*align-items: center;*/
+    height: 36px;
+    text-align: center;
+}
+
+.base-info-item input {
+    display: none;
+}
+
+.base-info-item input + span {
+    display: inline-block;
+    width: 40px;
+    line-height: 26px;
+    border-radius: 4px;
+    background-color: #dddddd22;
+    text-align: center;
+    margin-right: 20px;
+    font-size: 14px;
+    border: 1px solid #ddd;
+}
+
+.base-info-item input:checked + span {
+    color: #1aa1e4;
+    border: 1px solid lavender;
+    background-color: wheat;
+}
+
+
+
+
