@@ -6,4 +6,4 @@
 
 技术战：javabean+jsp+servlet
 
-[student.sql](https://github.com/Howie-6/student-achievement-management-information-system/files/11358099/student.sql.zip)
+downloead: [student.sql](https://github.com/Howie-6/student-achievement-management-information-system/files/11358099/student.sql.zip)
