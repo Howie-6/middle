@@ -7,3 +7,7 @@
 技术战：javabean+jsp+servlet
 
 downloead: [student.sql](https://github.com/Howie-6/student-achievement-management-information-system/files/11358099/student.sql.zip)
+
+![学生成绩修改界面](img_1.png)
+
+![7/29/2023 updated](img.png)
